@@ -1,0 +1,15 @@
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\bin\Debug\netstandard2.0\P1 A2 Llantera.deps.json
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\bin\Debug\netstandard2.0\P1 A2 Llantera.dll
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\bin\Debug\netstandard2.0\ref\P1 A2 Llantera.dll
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\bin\Debug\netstandard2.0\P1 A2 Llantera.pdb
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.csproj.AssemblyReference.cache
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.AssemblyInfoInputs.cache
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.AssemblyInfo.cs
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.csproj.CoreCompileInputs.cache
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\XamlC.stamp
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.dll
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\refint\P1 A2 Llantera.dll
+D:\visualstudio\P1 A2 Llantera\P1 A2 Llantera\P1 A2 Llantera\obj\Debug\netstandard2.0\P1 A2 Llantera.pdb

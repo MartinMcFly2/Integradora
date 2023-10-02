@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzCpB/oO1lkyqrFt+doJQpBbp4AFEiUMLXUmLcAfnEPvRa8xhc0AQ8E3L+x0sesfj/xa6XAG/ZJbp6iOe1Bdtg==",
+  "success": true,
+  "projectFilePath": "D:\\visualstudio\\P1 Inversores\\P1 Inversores\\P1 Inversores.iOS\\P1 Inversores.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4D2mAiuOCv2KpQlm7H+CNmkFqHtFVe4DSmczQEy9CiRosBB0zAKZ4bmu166JlDy9xs0gcJI9xMaLiCo75IJgg==",
+  "success": true,
+  "projectFilePath": "D:\\visualstudio\\P1 A2 Llantera\\P1 A2 Llantera\\P1 A2 Llantera.iOS\\P1 A2 Llantera.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

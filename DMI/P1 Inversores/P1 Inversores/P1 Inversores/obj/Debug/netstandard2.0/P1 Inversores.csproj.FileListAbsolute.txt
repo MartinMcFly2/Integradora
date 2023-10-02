@@ -1,0 +1,16 @@
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\bin\Debug\netstandard2.0\P1 Inversores.deps.json
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\bin\Debug\netstandard2.0\P1 Inversores.dll
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\bin\Debug\netstandard2.0\ref\P1 Inversores.dll
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\bin\Debug\netstandard2.0\P1 Inversores.pdb
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.csproj.AssemblyReference.cache
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.AssemblyInfoInputs.cache
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.AssemblyInfo.cs
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.csproj.CoreCompileInputs.cache
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\XamlC.stamp
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.dll
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\refint\P1 Inversores.dll
+D:\visualstudio\P1 Inversores\P1 Inversores\P1 Inversores\obj\Debug\netstandard2.0\P1 Inversores.pdb
